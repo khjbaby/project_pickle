@@ -1,0 +1,4 @@
+**/*.pyc
+git config --global user.name "khjbaby" 
+git config --global user.email "hayleyso1004@gmail.com"
+
