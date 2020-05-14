@@ -24,4 +24,4 @@ urlpatterns=[
     ...,
     path("", include("hello.urls")),
 ]
-ALLOWED_HOSTS=['*']
+
